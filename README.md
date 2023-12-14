@@ -14,7 +14,7 @@
 
 ## Видео
 
-[Видео в соответсвии с задание.]([https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://drive.google.com/file/d/1CI5NUXQslyctQwypO843nknagFYSwno3/view?usp=sharing))
+[Видео в соответсвии с задание.](https://drive.google.com/file/d/1CI5NUXQslyctQwypO843nknagFYSwno3/view?usp=drive_link)
 
 
 ## Технологии
