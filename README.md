@@ -10,7 +10,7 @@
 
 ## Colab
 
-Код программы представлен в [Google Colab](https://colab.research.google.com/drive/1VgUvVNJmxESRX6W1HbOK7LmIKFjtrGjz?usp=sharing)
+Код программы представлен в [Google Colab](https://colab.research.google.com/drive/1VgUvVNJmxESRX6W1HbOK7LmIKFjtrGjzusp=sharing)
 
 ## Видео
 
